@@ -10,4 +10,4 @@ This was an experimental exercise to get an understanding of the in's and out's 
 
 - Does un-freezing the network improve training, or are the pre-trained weights sufficient to perform accurately classify the burns?
 
-The complete analysis can be found in the classifying_web_scraped_burn_images.ipynb notebook.
+The complete analysis can be found in the (notebook)[https://github.com/BavarianToolbox/Classifying-web-scraped-burn-images/blob/master/classifying_web_scraped_burn_images.ipynb].
